@@ -45,7 +45,10 @@ const fruitsArr = fruits.split("/");
 
 // const mango = fruitsArr[0]
 
-document.write(`${fruitsArr[0]} <br> ${fruitsArr[1]} <br> ${fruitsArr[2]} <br> ${fruitsArr[3]} <br> ${fruitsArr[4]} <br> ${fruitsArr[5]} <br> ${fruitsArr[6]} <br> ${fruitsArr[7]} <br> ${fruitsArr[8]}`);
+
+
+
+// document.write(`${fruitsArr[0]} <br> ${fruitsArr[1]} <br> ${fruitsArr[2]} <br> ${fruitsArr[3]} <br> ${fruitsArr[4]} <br> ${fruitsArr[5]} <br> ${fruitsArr[6]} <br> ${fruitsArr[7]} <br> ${fruitsArr[8]}`);
 
 
 
